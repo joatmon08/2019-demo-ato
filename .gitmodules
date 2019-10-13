@@ -1,3 +1,9 @@
 [submodule "terraform-provider-expense"]
 	path = terraform-provider-expense
 	url = git@github.com:joatmon08/terraform-provider-expense.git
+[submodule "terraform-provider-medium"]
+	path = terraform-provider-medium
+	url = git@github.com:joatmon08/terraform-provider-medium.git
+[submodule "terraform-provider-translate"]
+	path = terraform-provider-translate
+	url = git@github.com:joatmon08/terraform-provider-translate.git
