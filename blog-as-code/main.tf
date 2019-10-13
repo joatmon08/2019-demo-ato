@@ -1,3 +1,7 @@
+provider "local" {
+  version = "~> 1.4"
+}
+
 resource "medium_post" "medium_provider" {
   title          = "Writing a Terraform Provider for Medium"
   content        = file("./medium-provider.md")
